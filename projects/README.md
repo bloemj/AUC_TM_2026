@@ -4,17 +4,17 @@ The project is the main grading item of the course. It will allow you to choose 
 
 **The AUC Code of Conduct applies to this assignment: please only submit your group's work and reference sources where applicable.**
 
-*Each group must have a GitHub (or GitLab) repository and use it to provide regular updates (see below).*
+*Each group must have a GitHub repository and use it to provide regular updates (see below).*
 
 ## Timeline
 
 * **February 9** Guidelines and default project ideas out. Group formation opens on Canvas (you can self-organize, groups are capped to 3). Proposals for custom projects are encouraged.
-* **April 6** Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
-* **April 13** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
-* **April 27** Project update 1 (see below for guidelines).
-* **May 11** Project update 2 (see below for guidelines).
-* **May 22/25** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
-* **May 25 (23:59 CEST)** Project due for all groups. This is the last day before the AUC wrap-up week, so this deadline can only be extended in case of exceptional personal circumstances.
+* **April 7* Groups are formed, time to decide on a project idea, if you have not already. Discussions (with me) on how to structure your project should start ASAP.
+* **April 14** Project update 0: repository `README` up. You need to submit a link to your repo containing the populated `README` file. This file should contain a detailed project plan, including: research question, dataset, methods, milestones, proposed division of work. Please use the [repository README template](README_template.md).
+* **April 24** Project update 1 (see below for guidelines).
+* **May 8** Project update 2 (see below for guidelines).
+* **May 19/22** In-class presentations: 10+10 minutes (presentation + questions), schedule to be published in advance.
+* **May 22 (23:59 CEST)** Project due for all groups. This is the last day before the AUC wrap-up week, so this deadline can only be extended in case of exceptional personal circumstances.
 
 ## Practicalities
 
@@ -22,7 +22,7 @@ The project is the main grading item of the course. It will allow you to choose 
 * **Contribution**: in the final report plase add a statement of what each team member contributed to the project. Team members will typically get the same grade, but I may differentiate in clear cases of unequal contribution. You can contact me in confidence in the event of unequal contribution.
 *Example: John: Plotting graphs during data analysis, crawling the data, preliminary data analysis; Mary: Problem formulation, writing up the report, coming up with the algorithm; Chris: Coding up the algorithm, running tests, tabulating final results.*
 * **Using external resources**: you may use any existing code, libraries, etc. and consult any papers, books, online references, generative language models, etc. for your project. However, you must cite your sources in your writeup and clearly indicate which parts of the project are your contribution and which parts were implemented by other authors or entities. Under no circumstances may you look at the code of another project from this year's edition of the course, or incorporate their code into your project. In your writeup, you cannot copy literally the output from external sources, including generative language models, even when you have cited those sources. This means that you *must* rework and process such information from external sources into your own writeup.
-* **Logistics**: you must create your project's GitHub (or GitLab) repository and work there (one of you uses their account and the others are invited as collaborators). This will help you start your project portfolio online.
+* **Logistics**: you must create your project's GitHub repository and work there (one of you uses their account and the others are invited as collaborators). This will help you start your project portfolio online.
 * **Updates**: these are brief summaries of what you have accomplished during the previous week, as well as any question you would like to ask. Groups should use a **GitHub issue** for every separate update, and add links to code or data where applicable. I will reply there. *You must submit updates, please do not have me chase you*: this is not optional and will influence your grade.
 * **Final submission**. You are expected to **submit a public URL to your repository**, containing the following: a short **report** (4-page maximum, excluding references and appendix), a **slide deck** for your presentation (I recommend 5-10 slides, not more), the **repository** or folder containing code, data and a `README` file with appropriate documentation to navigate the repository (all this with a link to your repository). **Please put the bulk of the code into a single notebook, with a clear structure and dependences.** *Note that the slide deck can be updated after the group presentation, but should be in the repo at submission time.*
 
@@ -53,7 +53,6 @@ For the grading of the presentations, I will pay attention to the following poin
     * https://github.com/niderhoff/nlp-datasets
     * https://github.com/karthikncode/nlp-datasets
     * https://github.com/awesomedata/awesome-public-datasets#naturallanguage
-    * https://www.cooldatasets.com/
     * https://www.kaggle.com/datasets
     * https://en.wikipedia.org/wiki/List_of_text_corpora
     * https://neerlandistiek.nl/2018/09/de-beste-digitale-taalbronnen/

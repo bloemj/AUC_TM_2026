@@ -4,13 +4,14 @@ This is but a limited selection of project ideas you can chose from. They all ha
 
 ## Media and politics
 
+
+### LLM bias
+
+In what ways are language models biased? Do they amplify biases or attenuate them? Are they more biased in particular languages? Can they imitate people with different biases? Datasets: LLM output, bias datasets such as StereoSet
+
 ### Social media politics
 
-How election campaigns unfold on social media? Pick one or more campaign and track how different candidates engage with certain topics during the campaign. Datasets: news, Twitter.
-
-### How are Bible (or Quran etc.) quotes used on Twitter?
-
-A simple but important question, given the role of religion in society. Inspiration: [America's Public Bible](http://americaspublicbible.org/). Dataset: news, Twitter.
+How election campaigns unfold on social media? Pick one or more campaign and track how different candidates engage with certain topics during the campaign. Datasets: news, Reddit.
 
 ### Media polarity
 
@@ -24,25 +25,29 @@ The world is becoming increasingly connected. Does the trend toward globalizatio
 
 ### The languages of science
 
-How different is the language of scientists from everyday language? Collect a dataset of abstracts from different scientific disciplines and learn a language model for each of them. Assess their distance from a baseline model learned from news or Wikipedia. Dataset: arXiv, PubMed OA, JSTOR, ask me.
+How different is the language of scientists from everyday language? Collect a dataset of abstracts from different scientific disciplines and learn a language model for each of them. Assess their distance from a baseline model learned from news or Wikipedia. Dataset: arXiv, PubMed OA, JSTOR.
 
 ### Science and hype
 
-Are scientists hyping their results? Find a way to measure hype, and check if it is increasing over time. Dataset: arXiv, PubMed OA, JSTOR, ask me.
+Are scientists hyping their results? Find a way to measure hype, and check if it is increasing over time. Dataset: arXiv, PubMed OA, JSTOR.
 
 ### Mapping machine learning research
 
-Detect trends in machine learning research over the past years/decades. Dataset: arXiv.
+Detect trends in machine learning research over the past years/decades. Dataset: arXiv, ACL Anthology.
+
+### LLMs for science
+
+Can language models generate valid molecules or valid DNA sequences? Do language models encode useful information about genes or biological taxonomy? Dataset: LLM outputs and datasets of molecules/genetic information
 
 ### Recommending research
 
-Build a recommender system for scientific publications based on their contents and a user query. Dataset: arXiv, PubMed OA, JSTOR.
+Build a recommender system for scientific publications based on their contents and a user query. Dataset: arXiv, PubMed OA, JSTOR, ACL Anthology, Semantic Scholar.
 
 ## Languages
 
 ### Impact of major events on language
 
-What effect does an event like the COVID-19 pandemic or a war have on our language? Are new terms introduced and does the meaning of words change? Twitter would be a good source for this.
+What effect does an event like the COVID-19 pandemic or a war have on our language? Are new terms introduced and does the meaning of words change? Reddit would be a good source for this.
 
 ### Language change over time
 
@@ -51,6 +56,10 @@ Are there words that have acquired a different meaning over the years? Try to le
 ### Text mining for lexical semantics and critical discourse analysis
 
 Words don't always mean what it says in the dictionary. What is the difference between an immigrant and an expat? Are certain activities more associated with particular genders in our AI language models? Data-driven language models can show you their bias.
+
+### AI language
+
+Is certain kinds of language characteristic of certain language models? How does it differ from human language?
 
 ### Comparing computational language models to human language processing
 
@@ -66,7 +75,13 @@ Perform an analysis of the language of the following categories of documents, us
 
 ### Philosophical texts
 
+### Academic writing
+
+### AI-generated text
+
 ### Newspaper text
+
+### Niche online subcultures
 
 ### Tweets
 
@@ -76,7 +91,7 @@ Perform an analysis of the language of the following categories of documents, us
 
 ### Books
 
-### Food
+### Recipes
 
 
 
